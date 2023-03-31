@@ -1,0 +1,11 @@
+Локально или глобально:
+1.  git init
+2. git config --local user.name "Pavel"
+3  git config --local user.email gpavel400@gmail.com
+
+git status
+git add -A
+git add main.css  или git add *.csss
+
+git comit -a -m"описание изменений на этой контрольной точке"
+
